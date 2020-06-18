@@ -8,6 +8,7 @@ public class Jav5 {
 		//check merge conflict
 		System.out.println("new lines added");
 		System.out.println("statement at line 10 from branchx");
+		System.out.println("statemetn at line 11 from branchy");
 	}
 
 }
