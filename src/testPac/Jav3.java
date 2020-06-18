@@ -1,12 +1,12 @@
 package testPac;
 
-public class JavProg3 {
+public class Jav3 {
 
 	public static void main(String[] args) {
 		int a, b, c;
 		a=20;
 		b=30;
-    c=40;
+		c=40;
 		System.out.println(a+b+c);
 	}
 
